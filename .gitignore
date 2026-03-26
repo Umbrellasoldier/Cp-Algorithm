@@ -1,0 +1,17 @@
+*.pdf
+*.zip
+*.mp4
+*.exe
+*.log
+desktop.ini
+
+.git/
+.git.backup*/
+.cph/
+.leetcode/
+.gocache/
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
