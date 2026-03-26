@@ -3,6 +3,7 @@
 *.mp4
 *.exe
 *.log
+*.*__tests
 desktop.ini
 
 .git/
